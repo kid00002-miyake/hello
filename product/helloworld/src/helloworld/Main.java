@@ -7,6 +7,7 @@ public class Main {
 		try
 		{
 			System.out.println("hello world");
+			System.out.println("hello eclipse");
 		}
 		catch(Exception ex)
 		{
